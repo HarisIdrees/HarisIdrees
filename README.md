@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haris</h1>
+<h1 align="center">Hi 👋, I'm Haris</h1>  <img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47ddglc7988bgzwbv35umhkt82of9sknzn0b385kjq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF image">
 <h3 align="center">A Web Developer working in Australia.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisidrees" alt="harisidrees" /></a> </p>
