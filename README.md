@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>  
 <h3 align="center"> A Web Developer working in Australia.</h3>
 <!-- <img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47ddglc7988bgzwbv35umhkt82of9sknzn0b385kjq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF image" style="display: block; margin: 0 auto;> -->
-<img src="https://giphy.com/static/img/error_pages/crying-cowbow-emoji.gif" alt="Animated GIF image" style="display: block; margin: 0 auto; width: 50%; height: 50%;>
+<img src="" alt="Animated GIF image" style="display: block; margin: 0 auto; width: 50%; height: 50%;>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisidrees" alt="harisidrees" /></a> </p>
 
